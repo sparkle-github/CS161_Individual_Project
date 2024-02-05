@@ -1,13 +1,13 @@
 # CS161_Individual_Project
  
-Project Title:
+## Project Title:
 Triangle Jump Puzzle
 
-Github URL:
+## Github URL:
 https://github.com/sparkle-github/CS161_Individual_Project
 
-Milestones with deadlines:
-M1 (Feb 6 - Feb 19) - Study about Flask and setup 
+ Milestones with deadlines:
+M1 (Feb 6 - Feb 19) - Study about Flask and setup
 M2 (Feb 20 - Feb 26) - User login and authentication
 M3 (Feb 27 - Mar 4) - Design UI
 M4 (Mar 5 - Mar 25) - Implement algorithm
