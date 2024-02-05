@@ -7,11 +7,11 @@ Triangle Jump Puzzle
 https://github.com/sparkle-github/CS161_Individual_Project
 
 ## Milestones with deadlines:
-M1 (Feb 6 - Feb 19) - Study about Flask and setup
-M2 (Feb 20 - Feb 26) - User login and authentication
-M3 (Feb 27 - Mar 4) - Design UI
-M4 (Mar 5 - Mar 25) - Implement algorithm
-M5 (Mar 26 - Apr 15) - Build database and integrate with UI
+M1 (Feb 6 - Feb 19) - Study about Flask and setup, 
+M2 (Feb 20 - Feb 26) - User login and authentication, 
+M3 (Feb 27 - Mar 4) - Design UI, 
+M4 (Mar 5 - Mar 25) - Implement algorithm, 
+M5 (Mar 26 - Apr 15) - Build database and integrate with UI, 
 M6 (Apr 16 - Finals) - Testing and enhancements 
 
 ## Front-end and Back-end Technology: 
